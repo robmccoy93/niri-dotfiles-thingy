@@ -3,8 +3,8 @@
 set -e
 
 echo "Cloning the dotfiles:"
-git clone https://github.com/DoubleDotStudios/niri-dotfiles
-cd ./niri-dotfiles
+git clone https://github.com/robmccoy93/niri-dotfiles-thingy.git
+cd ./niri-dotfiles-thingy
 
 echo "Moving the config files to ~/.config..."
 mv ./niri ~/.config/
