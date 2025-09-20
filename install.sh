@@ -8,7 +8,7 @@ cd ./niri-dotfiles-thingy
 
 echo "Moving the config files to ~/.config..."
 mv ./niri ~/.config/
-mv ./catppuccin-mocha-mauve /usr/share/sddm/themes
+mv ./swayidle ~/.config/
 mv ./kitty ~/.config/
 mv ./waybar ~/.config/
 mv ./fastfetch ~/.config/
